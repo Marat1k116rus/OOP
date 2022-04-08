@@ -40,3 +40,6 @@
 |  | Наименование предложения | string |
 
 
+
+![image](https://user-images.githubusercontent.com/102855097/162414716-839b6881-acf6-4bfa-b587-f672888902a1.png)
+
