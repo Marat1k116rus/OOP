@@ -52,7 +52,11 @@
 |  | Содержание | string | |  |
 
 
+UML-диаграмма классов:
 
+![image](https://user-images.githubusercontent.com/102855097/168347207-b34b0b79-dce1-48b8-8f3f-90a9c202f522.png)
 
-![image](https://user-images.githubusercontent.com/102855097/168336519-e0e3264b-3d3c-40af-a1db-d3cae0ccec3c.png)
+Атрибуты и методы:
+
+![image](https://user-images.githubusercontent.com/102855097/168347282-092fab01-504b-4ec8-a558-8149b40f43cf.png)
 
